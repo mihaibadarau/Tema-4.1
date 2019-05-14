@@ -1,0 +1,7 @@
+D:\Wantsome\Tema 4.1Hotel\Tema 4.1Hotel\bin\Debug\Tema 4.1Hotel.exe.config
+D:\Wantsome\Tema 4.1Hotel\Tema 4.1Hotel\bin\Debug\Tema 4.1Hotel.exe
+D:\Wantsome\Tema 4.1Hotel\Tema 4.1Hotel\bin\Debug\Tema 4.1Hotel.pdb
+D:\Wantsome\Tema 4.1Hotel\Tema 4.1Hotel\obj\Debug\Tema 4.1Hotel.csprojAssemblyReference.cache
+D:\Wantsome\Tema 4.1Hotel\Tema 4.1Hotel\obj\Debug\Tema 4.1Hotel.csproj.CoreCompileInputs.cache
+D:\Wantsome\Tema 4.1Hotel\Tema 4.1Hotel\obj\Debug\Tema 4.1Hotel.exe
+D:\Wantsome\Tema 4.1Hotel\Tema 4.1Hotel\obj\Debug\Tema 4.1Hotel.pdb
